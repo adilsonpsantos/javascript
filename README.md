@@ -1,2 +1,2 @@
 # javascript
-only Javascript course's source code
+only Javascript course related source code
