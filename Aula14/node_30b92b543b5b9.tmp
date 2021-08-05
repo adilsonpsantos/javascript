@@ -1,0 +1,8 @@
+console.log('Vai começar...')
+var inicio = 1
+var fim = 5
+var passo = 1
+for (inicio; inicio <= fim; inicio + passo){
+    console.log(inicio)
+}
+console.log('FIM!')  
